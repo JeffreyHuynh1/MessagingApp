@@ -4,4 +4,6 @@ This is an app that mimics the the Facebook messenger app. You can communicate w
 
 ## What did I learn
 
--fjsfjs
+- Firebase hosting and database storage
+- Material UI functional components
+- React forward ref 
